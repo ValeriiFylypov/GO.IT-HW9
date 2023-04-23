@@ -72,8 +72,8 @@ class MyQueueTest{
 
         //clear the queue
         queue.clear();
-        System.out.println("Очищаємо queue");
-        System.out.println("Ліст після очищення:\n"
+        System.out.println("Clearing the queue");
+        System.out.println("List after cleaning:\n"
                 + queue + ". Size = " + queue.size());
         System.out.println();
 
